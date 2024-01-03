@@ -6,6 +6,7 @@ Some password generators include: 1Password, Dashlane, NordPass, LastPass, Bitwa
 Password managers typically include built-in password generators so you can create a secure password on the fly when signing up for a new account. 
 
 # Technology used -
+C:\Users\subhankar\Desktop\My_Projects\My_Portfolio\Portfolio-Website-main\assets\images\projects\passwordGen.png
 javascript , html , css , bootstrap
 
 # Live 🚀🚀 - 
